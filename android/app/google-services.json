@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "56559589761",
+    "firebase_url": "https://ocarry-5bb4d-default-rtdb.firebaseio.com",
+    "project_id": "ocarry-5bb4d",
+    "storage_bucket": "ocarry-5bb4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56559589761:android:26c862ef74361cd8ab7080",
+        "android_client_info": {
+          "package_name": "com.ocarry.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56559589761-6cf0aeu54hvbfe6rj4p4ba6065mll0rv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocarry.driver",
+            "certificate_hash": "c733d90fdd54e6dba238bbd958ec6e3b887170a7"
+          }
+        },
+        {
+          "client_id": "56559589761-hq477feum4fmilgtmsdarqlo644ikp7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcY5lZ8FnEhmGkG1miVQZikHHSRSDR748"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56559589761-hq477feum4fmilgtmsdarqlo644ikp7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56559589761-1vueeq20ihspsclrgvi0dv9t03g2nkd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ocarry.users"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56559589761:android:94425021efc11bd7ab7080",
+        "android_client_info": {
+          "package_name": "com.ocarry.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56559589761-esd58v8t2bqnd5n5ou2q5lu4fnkge6qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocarry.merchant",
+            "certificate_hash": "c733d90fdd54e6dba238bbd958ec6e3b887170a7"
+          }
+        },
+        {
+          "client_id": "56559589761-hq477feum4fmilgtmsdarqlo644ikp7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcY5lZ8FnEhmGkG1miVQZikHHSRSDR748"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56559589761-hq477feum4fmilgtmsdarqlo644ikp7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56559589761-1vueeq20ihspsclrgvi0dv9t03g2nkd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ocarry.users"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56559589761:android:c65f0a0ccef6872bab7080",
+        "android_client_info": {
+          "package_name": "com.ocarry.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56559589761-tt30uhgtf9a9ffb4dbi16fu64j46hk1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocarry.user",
+            "certificate_hash": "c733d90fdd54e6dba238bbd958ec6e3b887170a7"
+          }
+        },
+        {
+          "client_id": "56559589761-hq477feum4fmilgtmsdarqlo644ikp7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcY5lZ8FnEhmGkG1miVQZikHHSRSDR748"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56559589761-hq477feum4fmilgtmsdarqlo644ikp7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56559589761-1vueeq20ihspsclrgvi0dv9t03g2nkd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ocarry.users"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

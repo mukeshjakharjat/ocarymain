@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.ocarry.user"
+    name: "Ocarry"
+  ios:
+    id: "com.ocarry.userapp"
+    name: "Ocarry"

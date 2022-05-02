@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>56559589761-luheq7kqo2dh6chsd07og1bmbmmu387o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.56559589761-luheq7kqo2dh6chsd07og1bmbmmu387o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>56559589761-6cf0aeu54hvbfe6rj4p4ba6065mll0rv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCh7RqfqQFvQK-AM2rc8OJDY1FcRJSFCX0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>56559589761</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ocarry.userapp</string>
+	<key>PROJECT_ID</key>
+	<string>ocarry-5bb4d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ocarry-5bb4d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:56559589761:ios:f717c21924faa760ab7080</string>
+	<key>DATABASE_URL</key>
+	<string>https://ocarry-5bb4d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
